@@ -18,7 +18,7 @@ A framework-free static website for a Dayton, Ohio technical-services provider. 
 
 Replace these explicit placeholders throughout the project:
 
-- `Lapointa's IT Service`
+- `Lapointa IT Services`
 - `[Business email]`
 - `[Business phone]`
 - `REPLACE-WITH-BUSINESS-EMAIL` in `script.js`

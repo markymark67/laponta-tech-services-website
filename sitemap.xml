@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace YOUR-VERCEL-DOMAIN after the first deployment or custom-domain setup. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/</loc></url>
+  <url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/services</loc></url>
+  <url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/products</loc></url>
+  <url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/about</loc></url>
+  <url><loc>https://YOUR-VERCEL-DOMAIN.vercel.app/contact</loc></url>
+</urlset>
